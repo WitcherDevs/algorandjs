@@ -6,6 +6,7 @@
 
 ```js
 import { Client } from 'algorand.js';
+
 const client = new Client({
   nodeNetwork: "mainnet", // or testnet
   indexerNetwork: "mainnet", // or testnet
