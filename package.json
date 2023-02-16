@@ -1,0 +1,31 @@
+{
+  "name": "algorand.js",
+  "version": "0.0.1",
+  "description": "Algorand module built using the Algoexplorer API.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "ts-node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWTCHR/algorandjs.git"
+  },
+  "keywords": [
+    "Algorand",
+    "Javascript",
+    "Typescript"
+  ],
+  "author": "Witcher",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/TheWTCHR/algorandjs/issues"
+  },
+  "homepage": "https://github.com/TheWTCHR/algorandjs#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "devDependencies": {
+    "tslib": "^2.5.0"
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"Options.js","sourceRoot":"","sources":["../../src/types/Options.ts"],"names":[],"mappings":"","sourcesContent":["export interface ClientOptions {\r\n    indexerNetwork: string;\r\n    nodeNetwork: string;\r\n}"]}
